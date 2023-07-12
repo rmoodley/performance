@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=performance
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.1.1
+project.is-open-test-settings-after-upload=false
+project.id=8eb8d9bf-9f81-421d-a8ed-8704e0b79d70
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=8.1.1
